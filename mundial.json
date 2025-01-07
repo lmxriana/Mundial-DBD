@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1735240117,
+	"Version": 1736289706,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3175,13 +3175,18 @@
 				"38",
 				"39",
 				"44",
+				"54",
 				"57",
-				"58",
+				"61",
+				"65",
 				"76",
+				"92",
 				"102",
 				"109",
+				"112",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
