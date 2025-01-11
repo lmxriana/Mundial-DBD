@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1736289706,
+	"Version": 1736631008,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3163,9 +3163,8 @@
 			],
 			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [
-				"178",
-				"200",
-				"220"
+				"191",
+				"199"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
