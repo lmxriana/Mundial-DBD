@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1763825294,
+	"Version": 1763908399,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -584,7 +584,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
