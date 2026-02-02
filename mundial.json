@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1763908399,
+	"Version": 1770062092,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -23,6 +23,7 @@
 				"24",
 				"25",
 				"60",
+				"301",
 				"273",
 				"286",
 				"288",
@@ -33,6 +34,7 @@
 				"279",
 				"43",
 				"280",
+				"303",
 				"267",
 				"46",
 				"49",
@@ -76,12 +78,15 @@
 				"260",
 				"253",
 				"115",
+				"302",
 				"116",
+				"305",
 				"290",
 				"287",
 				"120",
 				"124",
 				"126",
+				"304",
 				"128",
 				"254",
 				"130"
@@ -112,6 +117,7 @@
 				"172",
 				"174",
 				"175",
+				"299",
 				"291",
 				"178",
 				"180",
@@ -134,6 +140,7 @@
 				"216",
 				"272",
 				"219",
+				"298",
 				"227",
 				"229",
 				"231",
@@ -2649,8 +2656,8 @@
 				578
 			],
 			"ItemWhitelist": [
-				0,
-				6
+				6,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3641,7 +3648,7 @@
 			"SurvivorBalanceTiers": [
 				0
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [
 				"200"
 			],
@@ -3676,6 +3683,99 @@
 			"ItemWhitelist": [
 				6,
 				0
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The First",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"8",
+				"32",
+				"33"
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": true,
+			"KillerIndvPerkBans": [
+				"191",
+				"199",
+				"200",
+				"219",
+				"230"
+			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"21",
+				"34",
+				"36",
+				"38",
+				"39",
+				"44",
+				"57",
+				"76",
+				"92",
+				"102",
+				"109",
+				"112",
+				"121",
+				"127"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				838,
+				837,
+				836,
+				834,
+				832,
+				829,
+				825,
+				824,
+				823
+			],
+			"ItemWhitelist": [
+				0,
+				6
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
